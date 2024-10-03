@@ -1,0 +1,14 @@
+W:\BM57U\paradigmy\lab1\bin\Debug\net8.0\lab1.exe
+W:\BM57U\paradigmy\lab1\bin\Debug\net8.0\lab1.deps.json
+W:\BM57U\paradigmy\lab1\bin\Debug\net8.0\lab1.runtimeconfig.json
+W:\BM57U\paradigmy\lab1\bin\Debug\net8.0\lab1.dll
+W:\BM57U\paradigmy\lab1\bin\Debug\net8.0\lab1.pdb
+W:\BM57U\paradigmy\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+W:\BM57U\paradigmy\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+W:\BM57U\paradigmy\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+W:\BM57U\paradigmy\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+W:\BM57U\paradigmy\lab1\obj\Debug\net8.0\lab1.dll
+W:\BM57U\paradigmy\lab1\obj\Debug\net8.0\refint\lab1.dll
+W:\BM57U\paradigmy\lab1\obj\Debug\net8.0\lab1.pdb
+W:\BM57U\paradigmy\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
+W:\BM57U\paradigmy\lab1\obj\Debug\net8.0\ref\lab1.dll

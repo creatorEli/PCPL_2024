@@ -1,0 +1,30 @@
+<!--index.html-->
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <title>Game King Lion</title>
+    </head>
+<body>
+    <div class="container">
+        <div class="menu" id="menu">
+            <form name="forma" id="forma">
+                <input type="text" name="text" class="text" id="text" oninput="valid()" onChange="valid()" placeholder="введите никнейм">
+                <!--<input type="submit" name="submitt" class="submitt" id="submitt" onClick="start()">-->
+                <p>Выберите Игрока</p>
+                <div class="df"><input type="radio" name="pers" id="Timon" value="Timon"><p>Тимон</p></div>
+                <div class="df"><input type="radio" name="pers" id="Pumba" value="Pumba"><p>Пумба</p></div>
+            </form>
+            <div class="submitt1" id="submitt1" name="submitt" onClick="start()">
+                <p>start game</p>
+            </div>
+            <!--div class="instruction">
+                new instruction
+            </div-->
+        </div>
+        <canvas id="game" name="game" class="game">not Defined</canvas>
+    </div>
+    <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
